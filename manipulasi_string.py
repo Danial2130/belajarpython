@@ -37,3 +37,30 @@ print(nama[1:4])
 print(nama[:3])
 print(nama[2:])
 print(nama[:])
+
+#string method(fungsi yang menempel apa tipe data)
+#upper huruf besar semua
+#lower huruf kecil semua
+#titile mengubah setiap awal kata jadi huruf besar
+#capitalize setiap awal karakter huruf besar
+#strip menghilakan spasi
+#replace (dari, menjadi)
+#count(text) menghitung berapa kali text
+#find(text) mencari posisi
+
+nama = "Danial Maulana"
+print(nama)
+nama_upper = nama.upper()
+print(nama_upper)
+
+
+nama_lower = nama.lower()
+print(nama_lower)
+
+
+nama_title = nama.title()
+print(nama_title)
+
+
+nama_capitalize = nama.capitalize()
+print(nama_capitalize)
