@@ -64,3 +64,19 @@ print(nama_title)
 
 nama_capitalize = nama.capitalize()
 print(nama_capitalize)
+
+nama = "    Danial     "
+nama_strip = nama.strip()
+print(nama_strip)
+
+kalimat = "i love javascript"
+kalimat_baru = kalimat.replace("javascript", "python")
+print(kalimat_baru)
+
+nama = "danial maulana arshad"
+jumlah_a = nama.count("a")
+print(jumlah_a)
+
+kalimat1 = "Python Programming"
+kalimat1_baru = kalimat1.find("gramming")
+print(kalimat1_baru)
