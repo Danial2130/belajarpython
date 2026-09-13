@@ -80,3 +80,15 @@ print(jumlah_a)
 kalimat1 = "Python Programming"
 kalimat1_baru = kalimat1.find("gramming")
 print(kalimat1_baru)
+
+kalimat2 = "Baris pertama\nBaris Kedua"
+print(kalimat2)
+
+kalimat3 = "Nama:\tDanial\nUmur:\t18 Tahun"
+print(kalimat3)
+
+lokasi = "\\\\home\\danial\\Downloads"
+print(lokasi)
+
+kalimat4 = "Dia berkata \"Hello\" kepada semuanya"
+print(kalimat4)
