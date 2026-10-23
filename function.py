@@ -42,3 +42,17 @@ perkenalan("Danial", 18, "Jambi") #normal argumen gini harus sesuai urutan param
 #tapi dengan keyword argument, kita bisa menukar urutan argumen
 
 perkenalan(umur=20, nama="Fulan", kota="Bandung")
+
+
+def buat_profil(nama, umur, kota="Jakarta", pekerjaan="Belum Bekerja"):
+    print(f"==== PROFIL = {nama.upper()} ===")
+    print(f"Umur = {umur} tahun")
+    print(f"Kotaa = {kota}")
+    print(f"Pekerjaaan = {pekerjaan}")
+    print("==========================")
+
+buat_profil("Danial", 18)
+buat_profil("Fulan", 25, pekerjaan="Programmer")
+
+
+#local variabel di daalam function hnya bisa diakses di dalam function itu sendiri
