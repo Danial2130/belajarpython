@@ -67,9 +67,25 @@ def tampilkan_nama():
 tampilkan_nama()
 
 def ubah_nama():
-    
+    global nama_global # Mendeklarasikan nama_global sebagai variabel global
     nama_global = "Fulan"
     print("Nama global diubah menjadi", nama_global)
 
 ubah_nama()
 tampilkan_nama()
+
+#param dinamis
+
+def cetak_list(*list):
+    for item in list:
+        print(item)
+
+cetak_list("apel", "pisang", "jeruk")
+cetak_list("satu", "dua", "tiga", "empat", "lima")
+
+def cetak_dict(**dict):
+    for key, value in dict.items():
+        print(f"{key}: {value}")
+
+cetak_dict(nama="Danial", umur=18, kota="Jambi")
+cetak_dict(nama="Fulan", umur=25, kota="Bandung", pekerjaan="Programmer")
