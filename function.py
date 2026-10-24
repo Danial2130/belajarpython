@@ -56,3 +56,20 @@ buat_profil("Fulan", 25, pekerjaan="Programmer")
 
 
 #local variabel di daalam function hnya bisa diakses di dalam function itu sendiri
+
+#global variabel bisa diakses di dalam function dan di luar function
+
+nama_global = "Danial"
+
+def tampilkan_nama():
+    print("Nama global adalah", nama_global)
+
+tampilkan_nama()
+
+def ubah_nama():
+    
+    nama_global = "Fulan"
+    print("Nama global diubah menjadi", nama_global)
+
+ubah_nama()
+tampilkan_nama()
