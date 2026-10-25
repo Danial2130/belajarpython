@@ -25,3 +25,39 @@
 #print(10 / 0)
 
 
+#penangan error dengan try except
+# print("Kalkulator Sederhana")
+
+
+# try:
+#     angka1 = int(input("angka pertama: "))
+#     angka2 = int(input("angka kedua: "))
+#     hasil = angka1 / angka2
+#     print("Hasil pembagian: ", hasil)
+
+# except ValueError:
+#     print("Input harus berupa angka")#error khusus value error
+# except ZeroDivisionError:
+#     print("Tidak bisa membagi dengan nol")
+# except:
+#     print("Terjadi kesalahan di input pengguna")
+
+# print("Program selesai")
+
+#error secara general
+
+
+#try except else
+try:
+    angka = int(input("Masukkan angka: "))
+except ValueError:
+    print("Input harus berupa angka")
+else:
+    print("Angka yang dimasukkan adalah: ", angka)
+    if angka < 0:
+        print("Angka negatif")
+    elif angka > 0:
+        print("Angka positif")
+    else:print("Angka nol")
+finally:
+    print("Program selesai")#di jalankan walaupun terjadi error atau tidak
