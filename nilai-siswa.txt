@@ -1,2 +1,3 @@
 Danial,99
-Ihza,70
+Ihza,99
+Wildan,99
