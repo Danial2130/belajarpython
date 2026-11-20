@@ -1,50 +1,50 @@
-Berapakah nilai x jika 3x - 5 = 16?|7,5,6,8
-Berapakah hasil dari 2^3 × 2^4?|128,64,32,256
-Berapakah hasil dari √144 + √81?|21,19,18,23
-Berapakah 15% dari 240?|36,32,40,42
-Perbandingan jumlah A dan B adalah 3:5. Jika jumlah keduanya 64 maka nilai A adalah?|24,32,40,20
-Diketahui barisan aritmetika 4, 7, 10, 13, ... Berapakah suku ke-10?|31,28,34,30
-Diketahui barisan geometri dengan suku pertama 3 dan rasio 2. Berapakah suku ke-6?|96,48,64,128
-Berapakah jumlah 10 bilangan ganjil positif pertama?|100,90,110,120
-Akar terkecil dari persamaan x² - 5x + 6 = 0 adalah?|2,3,-2,-3
-Berapakah akar positif dari persamaan x² - 9 = 0?|3,9,-3,6
-Jika f(x) = 2x² - 3 maka nilai f(2) adalah?|5,7,3,8
-Diketahui f(x) = x + 1 dan g(x) = 2x. Berapakah nilai f(g(3))?|7,6,8,5
-Jika f(x) = 3x - 6 maka nilai f⁻¹(9) adalah?|5,3,4,6
-Jika x + y = 10 dan x - y = 2 maka nilai x adalah?|6,4,8,5
-Himpunan penyelesaian dari 2x + 3 < 11 adalah?|x < 4,x > 4,x < 7,x > 7
-Jika |x - 3| = 5 maka nilai x terbesar adalah?|8,5,-2,3
-Jika √(x + 4) = 3 maka nilai x adalah?|5,9,13,3
-Berapakah nilai log₂ 32?|5,4,6,8
-Jika 3^(x + 1) = 81 maka nilai x adalah?|3,2,4,5
-Jika a + b = 7 maka nilai (a + b)² adalah?|49,14,21,42
-Sebuah segitiga memiliki alas 12 cm dan tinggi 5 cm. Berapakah luasnya?|30 cm²,25 cm²,60 cm²,35 cm²
-Berapakah keliling lingkaran dengan jari-jari 7 cm jika π = 22/7?|44 cm,22 cm,49 cm,154 cm
-Berapakah luas lingkaran dengan jari-jari 7 cm jika π = 22/7?|154 cm²,44 cm²,144 cm²,308 cm²
-Segitiga siku-siku memiliki sisi tegak 6 cm dan 8 cm. Berapakah panjang sisi miringnya?|10 cm,12 cm,14 cm,8 cm
-Sebuah persegi panjang memiliki panjang 9 cm dan lebar 6 cm. Berapakah luasnya?|54 cm²,30 cm²,45 cm²,60 cm²
-Sebuah kubus memiliki panjang rusuk 4 cm. Berapakah volumenya?|64 cm³,16 cm³,48 cm³,32 cm³
-Sebuah tabung memiliki jari-jari 3 cm dan tinggi 7 cm. Berapakah volumenya jika π = 22/7?|198 cm³,154 cm³,216 cm³,189 cm³
-Dua bangun datar sebangun memiliki perbandingan panjang sisi 1:2. Berapakah perbandingan luasnya?|1:4,1:2,1:8,2:4
-Dua sudut sebuah segitiga masing-masing 50° dan 60°. Berapakah sudut ketiganya?|70°,60°,80°,90°
-Berapakah besar setiap sudut luar segi enam beraturan?|60°,90°,120°,45°
-Berapakah jarak antara titik A(1,2) dan B(4,6) pada bidang koordinat?|5,4,6,7
-Titik tengah antara A(2,4) dan B(4,4) adalah?|(3,4),(2,4),(4,4),(3,3)
-Berapakah gradien garis yang melalui titik (2,3) dan (4,7)?|2,3,4,1
-Persamaan garis dengan gradien 3 dan memotong sumbu Y di 2 adalah?|y = 3x + 2,y = 2x + 3,y = 3x - 2,y = x + 3
-Berapakah nilai sin 30°?|1/2,√3/2,1,0
-Berapakah nilai cos 60°?|1/2,√3/2,1,0
-Berapakah nilai tan 45°?|1,1/2,√3,0
-Rata-rata dari 6, 8, dan 10 adalah?|8,7,9,10
-Median dari data 2, 4, 7, 9, 10 adalah?|7,4,9,6
-Modus dari data 2, 2, 3, 4, 4, 4, 5 adalah?|4,2,3,5
-Sebuah dadu dilempar sekali. Berapakah peluang munculnya angka genap?|1/2,1/3,1/6,2/3
-Dua koin dilempar bersamaan. Berapakah peluang keduanya menunjukkan sisi gambar?|1/4,1/2,1/3,3/4
-Berapa banyak cara memilih 2 orang dari 5 orang?|10,5,15,20
-Berapa banyak susunan berbeda dari 4 objek yang berbeda?|24,12,16,20
-Dua kejadian independen memiliki peluang masing-masing 0,4 dan 0,5. Berapakah peluang keduanya terjadi bersamaan?|0,2,0,9,0,4,0,5
-Dalam suatu kelas terdapat 20 siswa yang menyukai matematika, 12 menyukai fisika, dan 5 menyukai keduanya. Berapa siswa yang menyukai matematika atau fisika?|27,32,25,17
-Berapakah determinan matriks [[2,1],[3,4]]?|5,8,11,3
-Jika 2x + y = 7 dan x = 2 maka nilai y adalah?|3,5,4,2
-Berapakah jumlah sudut dalam segi delapan?|1080°,900°,1260°,1440°
-Sebuah barang mengalami kenaikan harga dari Rp80.000 menjadi Rp100.000. Berapakah persentase kenaikannya?|25%,20%,30%,15%
+Berapakah nilai x jika 3x - 5 = 16?|7;5;6;8
+Berapakah hasil dari 2^3 × 2^4?|128;64;32;256
+Berapakah hasil dari √144 + √81?|21;19;18;23
+Berapakah 15% dari 240?|36;32;40;42
+Perbandingan jumlah A dan B adalah 3:5. Jika jumlah keduanya 64 maka nilai A adalah?|24;32;40;20
+Diketahui barisan aritmetika 4, 7, 10, 13, ... Berapakah suku ke-10?|31;28;34;30
+Diketahui barisan geometri dengan suku pertama 3 dan rasio 2. Berapakah suku ke-6?|96;48;64;128
+Berapakah jumlah 10 bilangan ganjil positif pertama?|100;90;110;120
+Akar terkecil dari persamaan x² - 5x + 6 = 0 adalah?|2;3;-2;-3
+Berapakah akar positif dari persamaan x² - 9 = 0?|3;9;-3;6
+Jika f(x) = 2x² - 3 maka nilai f(2) adalah?|5;7;3;8
+Diketahui f(x) = x + 1 dan g(x) = 2x. Berapakah nilai f(g(3))?|7;6;8;5
+Jika f(x) = 3x - 6 maka nilai f⁻¹(9) adalah?|5;3;4;6
+Jika x + y = 10 dan x - y = 2 maka nilai x adalah?|6;4;8;5
+Himpunan penyelesaian dari 2x + 3 < 11 adalah?|x < 4;x > 4;x < 7;x > 7
+Jika nilai mutlak dari x - 3 = 5 maka nilai x terbesar adalah?|8;5;-2;3
+Jika √(x + 4) = 3 maka nilai x adalah?|5;9;13;3
+Berapakah nilai log₂ 32?|5;4;6;8
+Jika 3^(x + 1) = 81 maka nilai x adalah?|3;2;4;5
+Jika a + b = 7 maka nilai (a + b)² adalah?|49;14;21;42
+Sebuah segitiga memiliki alas 12 cm dan tinggi 5 cm. Berapakah luasnya?|30 cm²;25 cm²;60 cm²;35 cm²
+Berapakah keliling lingkaran dengan jari-jari 7 cm jika π = 22/7?|44 cm;22 cm;49 cm;154 cm
+Berapakah luas lingkaran dengan jari-jari 7 cm jika π = 22/7?|154 cm²;44 cm²;144 cm²;308 cm²
+Segitiga siku-siku memiliki sisi tegak 6 cm dan 8 cm. Berapakah panjang sisi miringnya?|10 cm;12 cm;14 cm;8 cm
+Sebuah persegi panjang memiliki panjang 9 cm dan lebar 6 cm. Berapakah luasnya?|54 cm²;30 cm²;45 cm²;60 cm²
+Sebuah kubus memiliki panjang rusuk 4 cm. Berapakah volumenya?|64 cm³;16 cm³;48 cm³;32 cm³
+Sebuah tabung memiliki jari-jari 3 cm dan tinggi 7 cm. Berapakah volumenya jika π = 22/7?|198 cm³;154 cm³;216 cm³;189 cm³
+Dua bangun datar sebangun memiliki perbandingan panjang sisi 1:2. Berapakah perbandingan luasnya?|1:4;1:2;1:8;2:4
+Dua sudut sebuah segitiga masing-masing 50° dan 60°. Berapakah sudut ketiganya?|70°;60°;80°;90°
+Berapakah besar setiap sudut luar segi enam beraturan?|60°;90°;120°;45°
+Berapakah jarak antara titik A(1,2) dan B(4,6) pada bidang koordinat?|5;4;6;7
+Titik tengah antara A(2,4) dan B(4,4) adalah?|(3,4);(2,4);(4,4);(3,3)
+Berapakah gradien garis yang melalui titik (2,3) dan (4,7)?|2;3;4;1
+Persamaan garis dengan gradien 3 dan memotong sumbu Y di 2 adalah?|y = 3x + 2;y = 2x + 3;y = 3x - 2;y = x + 3
+Berapakah nilai sin 30°?|1/2;√3/2;1;0
+Berapakah nilai cos 60°?|1/2;√3/2;1;0
+Berapakah nilai tan 45°?|1;1/2;√3;0
+Rata-rata dari 6, 8, dan 10 adalah?|8;7;9;10
+Median dari data 2, 4, 7, 9, 10 adalah?|7;4;9;6
+Modus dari data 2, 2, 3, 4, 4, 4, 5 adalah?|4;2;3;5
+Sebuah dadu dilempar sekali. Berapakah peluang munculnya angka genap?|1/2;1/3;1/6;2/3
+Dua koin dilempar bersamaan. Berapakah peluang keduanya menunjukkan sisi gambar?|1/4;1/2;1/3;3/4
+Berapa banyak cara memilih 2 orang dari 5 orang?|10;5;15;20
+Berapa banyak susunan berbeda dari 4 objek yang berbeda?|24;12;16;20
+Dua kejadian independen memiliki peluang masing-masing 0.4 dan 0.5. Berapakah peluang keduanya terjadi bersamaan?|0.2;0.9;0.4;0.5
+Dalam suatu kelas terdapat 20 siswa yang menyukai matematika, 12 menyukai fisika, dan 5 menyukai keduanya. Berapa siswa yang menyukai matematika atau fisika?|27;32;25;17
+Berapakah determinan matriks [[2,1],[3,4]]?|5;8;11;3
+Jika 2x + y = 7 dan x = 2 maka nilai y adalah?|3;5;4;2
+Berapakah jumlah sudut dalam segi delapan?|1080°;900°;1260°;1440°
+Sebuah barang mengalami kenaikan harga dari Rp80.000 menjadi Rp100.000. Berapakah persentase kenaikannya?|25%;20%;30%;15%
